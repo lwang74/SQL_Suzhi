@@ -1,0 +1,3 @@
+use xx 
+update JKXUESHENG set xsmm='96E79218965EB72C92A549DD5A33112'
+ 
